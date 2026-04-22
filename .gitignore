@@ -1,0 +1,17 @@
+node_modules/
+dist/
+public/
+
+# macOS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local Claude Code config (personal, not shared)
+.claude/settings.local.json
+
+# Env files
+.env
+.env.local
+.env.*.local
